@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "shopamaze.online",
+  "Id": "968b5860-869b-40cc-92b0-46deb4f17db1"
+}
